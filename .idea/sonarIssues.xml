@@ -18,12 +18,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/helloworld_project/pages/tests.py">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/helloworld_project/pages/urls.py">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/helloworld_project/pages/views.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/helloworld_project/templates/about.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/helloworld_project/templates/base.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/helloworld_project/templates/home.html">
           <value>
             <set />
           </value>
