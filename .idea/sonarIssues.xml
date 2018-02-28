@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Read.md">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/helloworld_project/Pipfile">
           <value>
             <set />
@@ -33,6 +38,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/helloworld_project/pages/admin.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/helloworld_project/pages/models.py">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/helloworld_project/pages/tests.py">
           <value>
             <set />
@@ -49,6 +64,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/helloworld_project/templates/about.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/helloworld_project/templates/admin.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/helloworld_project/templates/adminPage.html">
           <value>
             <set />
           </value>
